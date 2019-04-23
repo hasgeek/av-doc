@@ -2,6 +2,7 @@ This documentation is meant to serve as a guide when setting up A/V at a confere
 
 # Contents
 
+* [Resources](resources.md)
 * [Preparing the console/computer](console-setup.md)
 * [Setting up audio](audio-setup.md)
 * [Setting up video](video-setup.md)
