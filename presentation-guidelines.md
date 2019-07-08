@@ -36,6 +36,7 @@
 - Provide adequate page margins on the slide and stay consistent to this across the presentation.
 - Avoid using fonts which are not installed by default in common operating systems or web services. In case we quickly need to debug your presentation or switch over to a different machine, you might have weird changes in your slides.
 - If you have to use custom fonts, make sure to embed the font in your presentation. In most software and services, you can do this when saving. File > Options > Save (check embed fonts box)
+- Use [Carbon](https://carbon.now.sh/) to generate your code snippets
 
 ## Colors
 - Provide adequate contrast between background and foreground elements.
