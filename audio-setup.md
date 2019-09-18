@@ -35,3 +35,5 @@ To correctly configure the mics with the receivers, turn on the receiver first a
 8. Each receiver can output individual mics over XLR or one receiver can mix and send all four channels through one out, 1/4” jacks.
 
 Once the configuration is done, remember to replace the batteries with fresh ones. Swap batteries when they’re down to 30% capacity. Do not wait for the charge to run out completely.
+
+Note - The driver version which has to be installed for Behringer UMC404HD Audio Interface Card is  v4.38.0_2018
